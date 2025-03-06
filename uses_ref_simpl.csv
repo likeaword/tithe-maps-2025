@@ -1,0 +1,624 @@
+land_use,simpl_land_use
+NA,NA
+Do,NA
+do,NA
+pasture,Pasture
+Mill & Homestead,Building
+Pasture,Pasture
+Arable & Hay,Arable
+Arable,Arable
+Hay,Arable
+Plantation,Arable
+Wood,Woodland
+arable & Hay,Arable
+arable,Arable
+arable & pasture,Arable
+arable & pas,Arable
+du du,NA
+du,NA
+Arable & Pasture,Arable
+ara & pas,Arable
+Hay & Pasture,Arable
+hay,Arable
+Arable Wood & pasture,Arable
+Orchard etc,Woodland
+Arable Pasture & Wood,Arable
+Barley,Arable
+Pool,Water
+Pasture & Waste,Pasture
+Waste,Waste
+Ara & Pas.,Arable
+Ara. & Pas.,Arable
+Ara & pas.,Arable
+ARa & pas.,Arable
+pas & Hay,Pasture
+ara. & pasture,Arable
+Ara. & Hay,Arable
+Arable Hay & pasture,Arable
+Garden,Building
+Arable & pasture,Arable
+Arable Hay & Pasture,Arable
+Ara Wood + Pas,Arable
+Ara + Pas.,Arable
+Arable + Hay,Arable
+Ara + Pas,Arable
+Ara + Hay,Arable
+Arable + Pas,Arable
+arable + Hay,Arable
+Ara Hay + Pas,Arable
+ara + Hay,Arable
+Ara Hay + pas,Arable
+wodd,Woodland
+Arable & pas.,Arable
+Arbable,Arable
+Ara + pas,Arable
+Garden etc,Building
+Arable & hay,Arable
+Cottage,Building
+Arable & House,Arable
+Arable Wood & Pasture,Arable
+ara and pas,Arable
+Ara & Hay,Arable
+Ara & Pas,Arable
+Ara Hay & Pas,Arable
+Arable & Waste,Arable
+Wood & Road,Woodland
+Pasture & Turf,Pasture
+Ara & Pasture,Arable
+Ara & Past,Arable
+Turf,Waste
+Arable & Pas,Arable
+Hay Arable & Pasture,Arable
+Arable & Cottage,Arable
+Arable Pasture & Hay,Arable
+Brought forward,NA
+Cottage & Garden,Building
+Ornamental Wood,Woodland
+pastured,Pasture
+arasble,Arable
+Homestead,Building
+Sheep Fold,Pasture
+Old Pasture,Pasture
+Turbary Pasture,Waste
+Gorse,Waste
+Wood & Pasture,Woodland
+Pasture Moory,Pasture
+Wood Mine & Waste,Woodland
+Pasture & Arable,Pasture
+Hay & pasture,Arable
+Ara & pasture,Arable
+ara & pasture,Arable
+ara & Hay,Arable
+Ara & pas,Arable
+Gardens & Gounds,Building
+Hay + Wood,Arable
+plantation,Arable
+House & Garden,Building
+Homestead &c &c,Building
+PasturePasture,Pasture
+Ara,Arable
+Hay & pas.,Arable
+Ara pas & Hay,Arable
+Ara & hay,Arable
+Hay & Pas,Arable
+Ara Pas & Hay,Arable
+pasture & ara,Pasture
+rough wood,Woodland
+Wood & Pas,Woodland
+Sheepwalk,Pasture
+ara Hay & pas,Arable
+Ara Hay & Pas.,Arable
+Hay & pas,Arable
+Hay & Pas.,Arable
+Turf & Waste,Waste
+Meadow,Pasture
+Arable and Pasture,Arable
+Pasture and Wood,Pasture
+Wood and Pasture,Woodland
+Pasture & Wood,Pasture
+Arable and Meadow,Arable
+Turbary and Pasture,Waste
+Pasture and Turbery,Pasture
+Arable and pasture,Arable
+Meadow & pasture,Pasture
+Arable & Meadow,Arable
+Roads,Building
+Pasture and Turbary,Pasture
+Pasture and Arable,Pasture
+Meadow and Pasture,Pasture
+Pasture and Meadow,Pasture
+Meadow & Pasture,Pasture
+Pasture & Meadow,Pasture
+Rough,Waste
+Wood and Waste,Woodland
+Pasture & Turbary,Pasture
+Meadow & Turbary,Pasture
+Crigarn,NA
+Llanbadarn,NA
+Part of Pen Y cnwc,NA
+.,NA
+Arable 7 pasture,Arable
+Pasture & wood,Pasture
+Meadow & arable,Pasture
+Wood & pasture,Woodland
+Pasture and wood,Pasture
+water,Water
+Arable & meadow,Arable
+Wood and pasture,Woodland
+ArableArable,Arable
+wood & pasture,Woodland
+Arable and meadow,Arable
+Ara Mea & pasture,Arable
+wood,Woodland
+Pasture & meadow,Pasture
+meadow,Pasture
+pastuure,Pasture
+Arableand pasture,Arable
+pasture & wood,Pasture
+Arable&meadow,Arable
+Arable& meadow,Arable
+Ara. & Mea.,Arable
+Bog,Waste
+"do,",NA
+Clay,Waste
+Meadow & pas.,Pasture
+Turbery,Waste
+Ara & mea,Arable
+various,NA
+!,NA
+Ara & mead,Arable
+Mead & ara,Pasture
+*,NA
+Ara & Mead,Arable
+A.m. & p.,Arable
+,NA
+Ara pas,Arable
+Ara: Mead,Arable
+"Ara, mead",Arable
+Penybryn,NA
+2,NA
+ditto,NA
+",,",NA
+Mea. & wood,Pasture
+do do,NA
+"pas, mea",Pasture
+Mea; Ara:,Pasture
+Mea; ara:,Pasture
+d0,NA
+Ross,Waste
+pas ara,Pasture
+Tur: pas :,Waste
+pas,Pasture
+Med,Pasture
+Ara Mea,Arable
+Ara Pas,Arable
+ara mea,Arable
+Pas,Pasture
+Mead,Pasture
+Wood ara,Woodland
+House,Building
+Ffynnon Crippel,NA
+do including house etc,Building
+Llan,NA
+576,NA
+do including Cottage etc,Building
+Road,Building
+Oat Stubble,Arable
+Wheat,Arable
+Stubble,Arable
+Furze,Waste
+Ryegrass,Arable
+Clover,Arable
+Part arable part rough,Arable
+Part pasture part rough,Arable
+Part Pasture Part rough,Arable
+Part Arable Part Pasture,Arable
+Part Barley Part Pasture,Arable
+"Field no. 1, 3 to 6, 19 & 20.",NA
+"Field no. 2, 13 to 16, 64 to 66.",NA
+Plan no. 23 to 26,NA
+Plan no. 67 to 69.,NA
+Plan no. 105 to 107a.,NA
+Part Pasture Part Arable,Pasture
+Waste and pasture,Waste
+Wood & road,Woodland
+Pasture and arable,Pasture
+Meadow and Arable,Pasture
+Arable and Wood,Arable
+Arable pasture and meadow,Arable
+Gwerncoly,NA
+Troedyrhiew,NA
+Jenkins John,NA
+Pasture & barley,Arable
+Oats,Arable
+Potatoes,Arable
+Cats,Arable
+Pas & clover,Arable
+mead w,Arable
+Pas hilly,Arable
+Oats & Pas,Arable
+Arable & pas,Arable
+Gardens,Building
+Meadw,Pasture
+"do,wheat",Arable
+Moors,Waste
+Oats etc,Arable
+Turbury,Waste
+Arable etc,Arable
+Pasture etc,Pasture
+1,NA
+4,NA
+8,NA
+15,NA
+6,NA
+Alltucha,NA
+House etc,Building
+Part Pasture,Pasture
+Pasture or Arable,Pasture
+Houses etc,Building
+Houses &c,Building
+Pasture a Meadow,Pasture
+Cotte & Garden,Building
+Pasture or Meadow,Pasture
+Plantation & Garden,Arable
+Houses Garden etc,Building
+Private roads,Building
+Cotte & Gardens,Building
+Ryegrass & Clover,Arable
+Rough Pasture,Pasture
+Pasture Arable & Furze,Pasture
+Cottages & Gardens,Building
+Houeses etc,Building
+Rye Grass & Clover,Arable
+Houses Gardens etc,Building
+Rough pasture,Pasture
+Pasture & Furze,Pasture
+House Garden etc,Building
+Cotte & Gar,Building
+Arable & Furze,Pasture
+Pas or Mea,Pasture
+Pas & Furze,Pasture
+Part of a Meadow,Pasture
+Hay & Wood,Arable
+Arable & Wood,Arable
+"Arable, Wood & Hay",Arable
+pasture and Gravel,Pasture
+Orchard and Garden,Woodland
+Orchard,Woodland
+ara. pas. & Hay,Arable
+Ara. & pasture,Arable
+Ara pas. & Hay,Arable
+pas. & Garden,Pasture
+Yards & Garden,Building
+pas. etc,Pasture
+Hay & Arable,Arable
+""" [Arable]",Arable
+Ara. Hay & pasture,Arable
+Woody pasture,Woodland
+Homestead etc,Building
+Ara & Fallow,Arable
+Ara & Wood,Arable
+Ara and pasture,Arable
+Arable and Hay,Arable
+Ara & Wet lands,Arable
+Homestead etc.,Building
+Ara Wood & pasture,Arable
+Close etc,Pasture
+Ara & Waste,Arable
+Gorse Cover,Waste
+Gravel & Waste,Waste
+Ara Hay & pasture,Arable
+Garden etc.,Building
+Old pasture,Pasture
+Fox Cover,Waste
+Hay and arable,Arable
+pasture and arable,Pasture
+Hay and pasture,Arable
+do pasture,Pasture
+Lea,Waste
+Arable and past,Arable
+Arable and do,Arable
+Coppice wood,Woodland
+Hay Wood and pasture,Arable
+Arable and Brushwood,Arable
+arable and pasture,Arable
+House & pasture,Building
+"Ara, pas, & Buildings",Arable
+Lane,Building
+Ara. pas. & Hay,Arable
+Hay ara & Waste,Arable
+Ara Hay & past,Arable
+do.,NA
+Haggaid,NA
+Lanes etc.,Building
+waste & pasture??,Waste
+Hay & arable,Arable
+Seeds & Hay,Arable
+Hay wood & pasture,Arable
+Arable& pasture,Arable
+do & Pasture,Pasture
+Rough Gorse,Waste
+Arable & Fallow,Arable
+Pasture & Rocks,Pasture
+Wood & Waste,Woodland
+"Arable & Hay, pasture, arable",Arable
+pasture & Quarry,Pasture
+Plantation & Arable,Arable
+Waste & Arable,Waste
+Hay & Waste,Arable
+Arable & Rough,Arable
+Clover & Hay,Arable
+Arable + pasture,Arable
+Arable + pas,Arable
+Arable & past.,Arable
+Arable + do,Arable
+Arable + past,Arable
+Arable & past,Arable
+arable & pas.,Arable
+House & Pas,Building
+Arable Hay,Arable
+River pasture & waste,Pasture
+Peterwell Old Common,Waste
+Cae John,Pasture
+Cae Llwydd,Pasture
+Black Lion Inn Lands,Building
+Cottage Garden,Building
+20,NA
+Ara(ble) & Pas(ture),Arable
+Moor &c.,Waste
+Pasture &c.,Pasture
+Arable & Mead,Arable
+Hughes Willliam,NA
+Moory pas,Waste
+Moor pas.,Waste
+Ara & Moor,Arable
+Pas & Moor,Pasture
+Mead & Pas,Pasture
+Moory Mead,Waste
+Arable &c.,Arable
+Moory pasture,Waste
+arable and moor,Arable
+moory mead,Waste
+moory pasture,Waste
+Ara(ble) & Moor,Arable
+Ara Pas & Mead,Arable
+Arable &c,Arable
+Pasture and Moory Mead,Pasture
+Pasture amd Moory Mead,Pasture
+arable &c,Arable
+Meadow &c,Pasture
+Ara. & Pas,Arable
+Moor pas &c.,Waste
+Mead & Wood,Pasture
+Meadow &c.,Pasture
+Pas & Wood,Pasture
+Moory past,Waste
+Past;ure,Pasture
+Ffyllon Ucha,Water
+Bencarreg Fawr,NA
+Ara. Pasd & Meadow,Arable
+gravel,Waste
+Gravel,Waste
+rough pasture,Pasture
+Cottage & garden,Building
+House &c,Building
+Ara Wood & pas.,Arable
+Troedrhiwcaer House & Homestead,Building
+Rough and Pasture,Waste
+Plantations,Arable
+Pasture & Rough,Pasture
+Turbary,Waste
+Meadow & Rough,Pasture
+Pasture & rough,Pasture
+Wood & Rough pasture,Woodland
+Meadow & rough,Pasture
+Arable meadow,Arable
+Arable Pasture,Arable
+Ditto,NA
+arable meadow,Arable
+Turbary & Pasture,Waste
+Arable & Pastuer,Arable
+Pasture & Land,Pasture
+do and Pasture,Arable
+Wood &c,Woodland
+Arabel,Arable
+Wood & Rough,Woodland
+Wood & rough,Woodland
+Nursery,Arable
+Arable & rough,Arable
+pas & Mead,Pasture
+ara & Mead,Arable
+ara & mead,Arable
+Mead & pas,Pasture
+arable & Mead,Arable
+Clover Hay,Arable
+plantations,Arable
+Wood coppice,Woodland
+Coppice,Woodland
+Mead & past,Pasture
+arable + Mead,Arable
+""" """,NA
+rough pas,Pasture
+pasture &c,Pasture
+pas & wood,Pasture
+Moory Pasture,Waste
+ara & fields,Arable
+ara & past,Arable
+ara & hay,Arable
+aqa & pas,Arable
+Morry pas,Waste
+Moory &c,Waste
+ara & planted,Arable
+>,NA
+mead & pas,Pasture
+mead & past,Pasture
+wood & pas,Woodland
+ara& pas,Arable
+ara & mea,Arable
+arable &c.,Arable
+pasure,Pasture
+Houses etc.,Building
+Fern,Waste
+Heath,Waste
+Fruze,Waste
+Mill,Building
+Houses and Garden,Building
+Park uchlawr y Ty,Building
+Park Tricornel,Building
+House Garden and Waste,Building
+Blaenwenen fach Cott & Garden,Building
+Blaenbarthen,NA
+Part of Dreforgan,NA
+Part of Park Quarrt,NA
+issa,NA
+arable & meadow,Arable
+arable + pasture,Arable
+pasture & garden,Pasture
+pasture & arable,Pasture
+a,
+pasture & Garden,Pasture
+Arable + Meadow,Arable
+meadow & pasture,Pasture
+arable & Meadow,Arable
+arable and meadow,Arable
+"#""",NA
+arable meadow & pasture,Arable
+\arable and meadow,Arable
+meadow and pasture,Pasture
+"arable, meadow",Arable
+Marian,NA
+House etc.,Building
+5,NA
+C87,NA
+F37,NA
+F38a,NA
+F41,NA
+F43,NA
+C236,NA
+Cae Godre issa,Arable
+""" "" ucha",NA
+Cae newydd,NA
+Banc Bwlch,NA
+Gofynach fach,NA
+Penclawdd fyn,NA
+House and Garden,Building
+Esgronnen fawr,NA
+Bont Faen fawr,NA
+9,NA
+3,NA
+H28,NA
+H31,NA
+K199,NA
+Cae Gwair,Arable
+Havodyrwyn hamlet,Building
+Rhuddlanucha hamlet,Building
+Brynnau hamlet,Building
+Rhiwson hamlet,Building
+Maesymeillion,NA
+Llechwedd,NA
+Pwllybylwg,NA
+Cot,NA
+Tynrhelig,NA
+Cnwc y ddwyros,NA
+House and garden,Building
+Cam,Arable
+Ddol ysa,NA
+Field,Arable
+Cae Baily,Arable
+Cae mawr,Arable
+Cae rofft,Arable
+Rhos yn olchsa,Waste
+Talwin coch,NA
+Arbale,Arable
+Past & Ara,Pasture
+Rushy pasture,Pasture
+Pasture &c,Pasture
+Past & Meadow,Pasture
+Pasture & Ara,Pasture
+Past & Arable,Pasture
+Mead & Ara,Pasture
+Mead & Arable,Pasture
+Waste & Road,Waste
+Grass,Pasture
+Arable & Grass,Arable
+Meadow & Plantation,Pasture
+Arable + Pasture,Arable
+Pasture & arable,Pasture
+Waste &c,Waste
+Rough pasture &c,Pasture
+Bog & Peat,Waste
+Arable of meadow,Arable
+Garden & pasture,Building
+arbale,Arable
+Furze & Pasture,Waste
+Pasture & Gravel,Pasture
+Arablel & pasture,Arable
+arable & gravel,Arable
+garden,Building
+furze & pasture,Waste
+Gravel & furze,Waste
+Furze & pasture,Waste
+R. pasture,Pasture
+R Pasture,Pasture
+Arable & R pasture,Arable
+Wood Pasture,Woodland
+Meadow & Arable,Pasture
+R. Pasture,Pasture
+pasture & Arable,Pasture
+pasture & Meadow,Pasture
+Clyn Garreg,NA
+Cottage etc,Building
+Pasture & turbary,Pasture
+meadow arable pasture,Pasture
+"arable, pastures, meadow",Arable
+pasture & meadow,Pasture
+arable pasture & meadow,Arable
+pasture & turbary,Pasture
+Mill pond,Water
+meadow & arable,Pasture
+"Pasture, arable & meadow",Pasture
+"arable, meadow & pasture",Arable
+arable & Pasture,Arable
+arable meadow pasture,Pasture
+Pasture and turbary,Pasture
+Arable Meadow,Arable
+arable & meadow and pasture,Arable
+Medow,Pasture
+arable Pasture & meadow,Arable
+Arable Meadow & pasture,Arable
+Cliffs and pasture,Waste
+Pasture & funze,Pasture
+Pasture and furze,Pasture
+Pasture and Cliffs,Pasture
+Arable and furze,Arable
+Pasture & furze,Pasture
+Pasture & Cliff,Pasture
+Pasture & Cliffs,Pasture
+Pasture & Turbury,Pasture
+Wet pasture,Pasture
+Dremddufawr,Pasture
+Dremddufach,Pasture
+Gorwydd,Pasture
+Do.,Pasture
+Blaenwaun,Pasture
+Tyn yr Hewl,Pasture
+Pantyronnen,Pasture
+Cwm mawr,Pasture
+Cwmmmawr,Pasture
+Dyffryn y felin,Pasture
+Pantgwyn,Pasture
+Shopfach,Pasture
+Penbrysg,Pasture
+House & Garden etc,Building
+House and close,Building
+Clover & Ryegrass,Arable
+Pasture & Sandy rough pasture,Pasture
+Rocky & pasture,Waste
+Pasture or Furze,Pasture
+Arable pasture and Furze,Arable
+Waste & Rocks,Waste
+pasture & Furze,Pasture
+pasture or Meadow,Pasture
+Arable & Ryegrass,Arable
+Pasture & Freeze,Pasture
+Meadow or Pasture,Pasture
